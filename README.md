@@ -1,4 +1,3 @@
-<img src='https://github.com/MonicaHillman/3654-rotas-react-native/assets/51282495/c41d034e-e8f9-43f8-b24e-d454d56a5cc5' alt='capa do curso' />
 
 ## Adopet
 Uma rede social para adotantes encontrarem cachorros ou gatos para adoção.
@@ -21,6 +20,3 @@ Para visualizar o Figma do projeto, clique [aqui](https://www.figma.com/file/47v
 Para abrir e rodar o projeto, execute ``npm install`` para instalar as dependências e ``npx expo start`` para iniciar o projeto.
 
 Depois, seleciona a opção "a" no terminal para abrir o emulador.
-
-## 📚 Mais Informações sobre o Curso
-O Adopet é uma rede social fictícia utilizada nesse curso da Alura. A ideia principal é implementar a navegação de uma aplicação com React Navigation e desbravar os conceitos de navegação do tipo Stack, Tab e Drawer.
