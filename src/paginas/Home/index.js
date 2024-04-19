@@ -17,7 +17,7 @@ export default function Home({navigation}) {
                         <Text style={styles.textoBotao}>Login</Text>
                     </TouchableOpacity>
 
-                    <TouchableOpacity style={styles.button}>
+                    <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('Cadastro')}>
                         <Text style={styles.textoBotao}>Cadastro</Text>
                     </TouchableOpacity>
 
